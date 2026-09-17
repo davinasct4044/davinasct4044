@@ -16,10 +16,10 @@
 
 ## Meu Roadmap (Próximos 6 meses)
 - [x] Aprender O básico do Java
-- [] Aprender Spring Boot
-- [] Subir um projeto completo com Java
-- [] Aprender conceitos avançados de programação orientada a objetos
-- [] Melhorar meu nível de inglês
+- [ ] Aprender Spring Boot
+- [ ] Subir um projeto completo com Java
+- [ ] Aprender conceitos avançados de programação orientada a objetos
+- [ ] Melhorar meu nível de inglês
 
 ## Projetos em destaque
 | Projeto | Descrição | Tecnologias principal |
